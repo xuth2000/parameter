@@ -1,2 +1,2 @@
-paramenter
+parameter
 ==========
